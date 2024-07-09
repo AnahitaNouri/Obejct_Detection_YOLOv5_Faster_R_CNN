@@ -1,1 +1,1 @@
-# Obejct_Detection_YOLOv5_Faster_R_CNN
+# Obejct Detection Using YOLOv5 and Faster R CNN
